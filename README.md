@@ -24,7 +24,7 @@ Hi, I'm Debajit Roul 👋<br><br>I'm a final-year B.Tech student at NIT Rourkela
 
 
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
