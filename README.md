@@ -10,7 +10,7 @@
 
 I’m interested in using **AI to build faster, automate engineering workflows, and solve complex technical problems**, while keeping strong software and systems fundamentals at the core.
 
-> Learn fast. Build deep. Ship.
+> Learn fast. Build deep. Ship and Repeat.
 
 
 ## 🌐 Socials:
