@@ -6,7 +6,7 @@
  I build backend and systems software at the intersection of **Web2 infrastructure, Web3 protocols, and Applied AI**.
 
 🦀 Rust & Python • ⚙️ Backend & Systems • 🗄️ Data & Databases  
-⛓️ Solana & DeFi • 🤖 LLMs, AI Agents & Applied AI
+⛓️ Solana & DeFi • 🤖 LLMs, Applied AI
 
 I’m interested in using **AI to build faster, automate engineering workflows, and solve complex technical problems**, while keeping strong software and systems fundamentals at the core.
 
